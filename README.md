@@ -1,2 +1,2 @@
-# machine_lerning
+# machine_learning
 play around with machine learning 
