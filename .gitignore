@@ -1,4 +1,7 @@
 data/
+--user
+--user.error
+tensorflow_macos/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
