@@ -1,5 +1,5 @@
 {
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true,
-    "python.pythonPath": "/usr/local/Caskroom/miniconda/base/envs/mach_lern/bin/python"
+    "python.pythonPath": "/usr/local/Caskroom/miniconda/base/envs/mach_lern2/bin/python"
 }
